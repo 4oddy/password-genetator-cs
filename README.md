@@ -1,4 +1,4 @@
 # password-genetator-c-
-this is my first c# project
-this program generates password using only digits,letters or using letters and digits
-max length of password - 30 symbols
+This is my first c# project
+This project generates password using only digits,letters or using letters and digits
+Max length of password - 30 symbols
